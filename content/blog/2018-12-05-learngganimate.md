@@ -29,7 +29,7 @@ topicid:
 [@AdamGruer](https://twitter.com/AdamGruer)
 - 🐱 [Saskia Freytag](https://github.com/SaskiaFreytag) 🐦
 [@trashystats](https://twitter.com/trashystats)
-- 🐱 [Anna Quaglieri](https://github.com/SaskiaFreytag) 🐦
+- 🐱 [Anna Quaglieri](https://github.com/annaquaglieri16) 🐦
 [@annaquagli](https://twitter.com/annaquagli)
 - 🐱 [Sarah Romanes](https://github.com/sarahromanes) 🐦
 [@sarah\_romanes](https://twitter.com/sarah_romanes)
