@@ -40,7 +40,7 @@ topicid:
 - 🐱 [Emi Tanaka](https://github.com/emitanaka) 🐦
 [@statsgen](https://twitter.com/statsgen)
 
-During the whole process, Adam took charge and made it easier for us to work together. 
+During the whole process, Adam 🧔🏻took charge and made it easier for us to work together 🥳. 
 
 ## What we did
 
@@ -56,7 +56,7 @@ package 📦.
 
 ## How was it
 
-The result was a mixture of fun, laughter and all round goodness of `gganimate` examples that spanned from tutorials of the various transitions to fabulous queen race! How can you not love it?
+The result was a mixture of fun 😁, laughter 🤣 and all round goodness of `gganimate` examples that spanned from tutorials of the various transitions to fabulous queen ♛ race! How can you not 🧡 it?
 
 ![](https://github.com/ropenscilabs/learngganimate/blob/master/RuPaul_excercise/making_gganimate_fab_files/figure-markdown_github/rupaulgif-1.gif)
 
